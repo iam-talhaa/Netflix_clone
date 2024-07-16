@@ -68,6 +68,16 @@ flutter:
     - Assets/images/3.png
     - Assets/images/4.png
     - Assets/images/5.png
+    - Assets/images/cover.jpg
+    - Assets/images/1Row/
+    - Assets/images/2Row/
+    - Assets/images/3ROW/
+    - Assets/images/4ROW/
+    - Assets/images/5row/
+    - Assets/images/7row/
+    - Assets/images/8row/
+
+    
 
     
 

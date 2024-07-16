@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:netflix_clone/ui/Accounts_screen.dart';
 import 'package:netflix_clone/ui/SplashScreen.dart';
 import 'package:netflix_clone/ui/Started_screen.dart';
+import 'package:netflix_clone/ui/homescreen.dart';
 import 'package:netflix_clone/ui/login_screen.dart';
+import 'package:netflix_clone/ui/net_homescreen.dart';
 import 'package:netflix_clone/ui/signUp.dart';
 
 void main() {
@@ -21,7 +23,7 @@ class _Netflix_AppState extends State<Netflix_App> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Account_Screen(),
+      home: N_home(),
     );
   }
 }
