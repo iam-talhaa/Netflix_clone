@@ -63,6 +63,12 @@ flutter:
   assets:
     - Assets/images/netflix.png
     - Assets/images/S_image.png
+    - Assets/images/1.png
+    - Assets/images/2.png
+    - Assets/images/3.png
+    - Assets/images/4.png
+    - Assets/images/5.png
+
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
